@@ -1,13 +1,9 @@
-# Coloring - An educational game to learn Colors to kids
+# Coloring - An educational game to learn Colors for kids
 This project is about a serious game that aims to help children from three to six years old learn and become familiar with the colors.The game was built and developed based on the Montessori pedagogy, espaicially the book ["Teach Me How To Do It Myself : Montessori Activities for You and Your Child"](https://www.amazon.com/Teach-Me-Myself-Montessori-Activities/dp/0764127896) by `Maja Pitamic`.
 
 ## Youtube video :
 
 [![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/Capture.PNG?raw=true)](https://www.youtube.com/watch?v=gMbR3Dm2KfU&t=10s)
-
-
-## What is coloring game?
-
 
 
 ## What is Montessori ?
