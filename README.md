@@ -3,7 +3,7 @@ This project is about a serious game that aims to help children from three to si
 
 ## Youtube video :
 
-[![Menu](https://img.youtube.com/vi/3-_1-D3tuIg/maxresdefault.jpg "Youtube")](https://www.youtube.com/watch?v=gMbR3Dm2KfU&t=10s)
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/Capture.PNG?raw=true)](https://www.youtube.com/watch?v=gMbR3Dm2KfU&t=10s)
 
 
 ## What is coloring game?
@@ -39,18 +39,18 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 ### `Menu` as shown below :
 
 
-[1] . A navigational button takes the player to `PlayDashboard`. [2] . A navigational button takes the player to `QuizDashboard`.
+[1] . xxxxxx. [2] . xxxxxxx.
 
-[3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
+[3] . xxxxxx. [4] . xxxxxxx.
 
 ![Menu](/ScreenShots/Menu.png "Menu")
 
 
 ### `PlayDashboard` as shown below :
 
-[1] . Each one of them represents a navigational button that represents as well a `Learn` level, arranged from left to right.
+[1] . xxxxxxxx.
 
-[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to go back to `Menu`.
+[2] . xxxxxxxx. [3] . xxxxxxxx.
 
 ![PlayDashboard](/screenShots/lockedPlay.png "PlayDashboard")
 
@@ -112,55 +112,36 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 ##### When the child clicks the right letter :
 
-[1] . A navigational button to retry the current `Quiz` level.  
+[1] . xxxxxxx.  
 
-[3] . A navigational button takes the player to the previous `Quiz` level.  [2] . A navigational button takes the player to the next `Quiz` level. 
+[3] . xxxxxxx.
 
-![Quiz level](/screenShots/QuizLevel01.1.png "Quiz level")
+![Alphabets level](/ScreenShots/MenuAlphabets.PNG "Alphabets level")
 
-##### When the child clicks the wrong letter :
+##### Alphabets levels :
 
-![Quiz level](/screenShots/QuizLevel01.2.png "Quiz level")
+![Alphabets level](/ScreenShots/PlayLevelAlphabets.PNG "Alphabets level")
 
-![Quiz level](/screenShots/QuizLevel03.png "Quiz level")
+![Alphabets level](/ScreenShots/PlayLevelAlphabets01.PNG "Alphabets level")
 
-![Quiz level](/screenShots/QuizLevel05.png "Quiz level")
-
-![Quiz level](/screenShots/QuizLevel06.png "Quiz level")
-
-![Quiz level](/screenShots/QuizLevel06.1.png "Quiz level")
-
-![Quiz level](/screenShots/QuizLevel07.png "Quiz level")
-
-### `Settings` as shown below :
-
-[1] . A controller that controls the background music volume. [2] . A navigational button takes the player to `About`
-
-[3] . A navigational button to `Exit`.
-
-![Settings](/screenShots/Settings.png "Settings")
-
-### `About` as shown below :
-
-![About](/screenShots/About.png "About")
 
 # Install the game 
 
 ### To play online using your browser : 
 
-[ArabicAlphabetWebGl/](https://amine-amaach.github.io/ArabicAlphabet-Web/)
+[Coloring-Game-WebGl/](https://otmanaalloul.github.io/Coloring-Game/)
 
 ### To install the game on your Andriod device : 
 
-[ArabicAlphabetAndriod/](https://amine-amaach.github.io/ArabicAlphabet-Android)
+[Coloring-Game-Android/](https://github.com/OtmanAalloul/Coloring-Game-Android)
 
 ### To install the game on your IOS device : 
 
-[ArabicAlphabetIOS/](https://github.com/amine-amaach/ArabicAlphabet/) `To be added`
+[Coloring-Game-IOS/](https://github.com/amine-amaach/ArabicAlphabet/) `To be added`
 
 ### To install the game on your Windows pc : 
 
-[ArabicAlphabetWindows/](https://amine-amaach.github.io/ArabicAlphabet-Windows)
+[Coloring-Game-Windows/](https://github.com/OtmanAalloul/Coloring-Game-Windows)
 
 # Oweners :
 
