@@ -46,7 +46,7 @@ The game was developed as 3D game using [Unity](https://en.wikipedia.org/wiki/Un
 
 [2] . A navigational button takes the player to menu.
 
-[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG)
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuAlCaracters.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG)
 
 
 ### `Caracters` levels as shown below :
@@ -54,42 +54,17 @@ The game was developed as 3D game using [Unity](https://en.wikipedia.org/wiki/Un
 [1] . In this part the child must click on a character to arrive at a level corresponding to this character, and in which the child will color this character.
 [![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelCaracters.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelCaracters.PNG)
 
-### `QuizDashboard` as shown below :
+### `AlphabetsDashboard` as shown below :
 
-[1] . Each one of them represents a navigational button that represents as well a `Quiz` level, arranged from left to right.
+[1] . twenty-eighth letters, each letter corresponds to a level.
 
-[2] . A navigational button takes the player to `Settings`. [3] . A navigational button to `Exit`
+[2] . A navigational button takes the player to menu.
 
-![PlayDashboard](/screenShots/lockedQuiz.png "QuizDashboard")
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuAlphabets.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuAlphabets.PNG)
 
-##### When all the levels unlocked :
-
-![Unlocked levels](/screenShots/unlockedQuiz.png "Unlocked levels") 
-
-### `Quiz` levels as shown below :
-
-[1] . Represents the letters that contains the right letter related to the character in [2] and the child should figure it out.
-
-[2] . Represents the character that the child should figure out which letter is related to it.
-
-[3] . A navigational button takes the player to `Settings`.  [4] . A navigational button  to go back to `QuizDashboard`.
-
-![Quiz level](/screenShots/QuizLevel01.png "Quiz level")
-
-##### When the child clicks the right letter :
-
-[1] . xxxxxxx.  
-
-[3] . xxxxxxx.
-
-![Alphabets level](/ScreenShots/MenuAlphabets.PNG "Alphabets level")
-
-##### Alphabets levels :
-
-![Alphabets level](/ScreenShots/PlayLevelAlphabets.PNG "Alphabets level")
-
-![Alphabets level](/ScreenShots/PlayLevelAlphabets01.PNG "Alphabets level")
-
+### `Alphabet` levels as shown below :
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelAlphabets.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelAlphabets.PNG)
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelAlphabets01.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelAlphabets01.PNG)
 
 # Install the game 
 
