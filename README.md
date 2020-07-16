@@ -7,8 +7,8 @@ This project is about a serious game that aims to help children from three to si
 
 
 ## What is coloring game?
-
-
+The main objective of this game is to allow children to learn colors based on the Montessori pedagogy, so at the end of this game the child should be able to identify the colors.
+In this game we have made two sections, the first is interested in the coloring of the alphabets and like that we will allow the child the possibility of identifying the alphabets, the second section is interested in the coloring of the characters .
 
 ## What is Montessori ?
 The Montessori Method was developed by **[Dr.Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)** in the early 1900s. It’s a specific child-centered method of education that involves child-led activities , classrooms with children of varying ages and teachers who encourage independence among their pupils.
@@ -18,75 +18,40 @@ The game was developed as 3D game using [Unity](https://en.wikipedia.org/wiki/Un
 
 ## Game Features
 - Attractive and esay-to-use GUI.
-- Well structed, the game divided into two mean sections `Learn` then `Quiz`.
-- Each section is divided in seven levels, and each level includes four letters which have been chosen by similarity of shape.
-- Each `learn` level has a corresponding `Quiz` level.
-- A lovely dashboard that keeps track of the unlocked and locked levels.
-- Associate each letter with a lovely character that represents a known animal.
-- Name each character with a name that has all the possible positions of the letter associated with.
-- Sounds, a significant factor in the game, assign to each letter its pronunciation along with the name of the character related to.
-- Animations, another significant factor in the game, every element in the game has an animation associated to it, and all the animations
-have been chosen accurately.
-- A 3D character named "Mousey" accompanies the child all along the game and reacts to all the actions made by him, it has a significat role
-in indicating to the child to pay attention in the `Learn` levels, and indicates to him if he answered right or wrong in the `Quiz` levels.
-- Beautiful background Musics and a smooth transition when changing between the sections in the game.
+- The game is divided into two sections, one for coloring the alphabets and one for coloring the characters.
+- The alphabets section contains twenty-eight alphabets, therefore twenty-eight levels, and the characters section contains ten characters.
+- For each level the child can modify the size of the pencil in order to color the small areas..
+- A lovely dashboard that contains the different levels, and the child who must choose which level to choose.
+- Associate each level with a set of different colors.
+- The sounds, important factor in the game, so we made a playlists of things so that the child does not get bored.
 - The game is light-weight and availible on Andriod, IOS, Windows and as a web application.
 
 ## How to use, game structure
 
-### The game has three main parts `Menu`, `PlayDashboard` and `QuizDashboard` :
+### The game has three main parts `Menu`, `AlphabetsDashboard` and `CharactersDashboard` :
 
 ### `Menu` as shown below :
 
 
-[1] . xxxxxx. [2] . xxxxxxx.
+[1] . A navigational button takes the player to AlpahbetsDashboard.. [2] . A navigational button takes the player to CaractersDashboard.
 
-[3] . xxxxxx. [4] . xxxxxxx.
+[3] . A navigational button to Exit.
 
-![Menu](/ScreenShots/Menu.png "Menu")
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/Menu.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/Menu.PNG)
+
+### `CaractersDashboard` as shown below :
+
+[1] . Ten characters, each character corresponds to a level.
+
+[2] . A navigational button takes the player to menu.
+
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG)
 
 
-### `PlayDashboard` as shown below :
+### `Caracters` levels as shown below :
 
-[1] . xxxxxxxx.
-
-[2] . xxxxxxxx. [3] . xxxxxxxx.
-
-![PlayDashboard](/screenShots/lockedPlay.png "PlayDashboard")
-
-##### When all the levels unlocked :
-
-![Unlocked levels](/screenShots/unlocked-Play.png "Unlocked levels")
-
-### `Learn` levels as shown below :
-
-[1] . Represents a letter, that when it gets clicked, the character and the sounds associated to it will show up on the board.
-
-[2] . A navigational button takes the player to the next `Learn` level. 
-
-[3] . A navigational button takes the player to `Settings`.  [4] . A navigational button to go back to `PlayDashboard`. 
-
-![Learn level](/screenShots/PlayLevel01.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel01.1.png "Learn level")
-
-[5] . A navigational button takes the player to the previous `Learn` level.  [6] . A navigational button takes the player to the next `Learn` level. 
-
-![Learn level](/screenShots/PlayLevel02.1.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel03.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel03.1.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel04.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel04.1.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel06.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel07.png "Learn level")
-
-![Learn level](/screenShots/PlayLevel07.1.png "Learn level")
+[1] . In this part the child must click on a character to arrive at a level corresponding to this character, and in which the child will color this character.
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelCaracters.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/PlayLevelCaracters.PNG)
 
 ### `QuizDashboard` as shown below :
 
