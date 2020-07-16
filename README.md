@@ -1,4 +1,4 @@
-# Coloring - An educational game to learn Colors to kids
+# Coloring - An educational game to learn Colors for kids
 This project is about a serious game that aims to help children from three to six years old learn and become familiar with the colors.The game was built and developed based on the Montessori pedagogy, espaicially the book ["Teach Me How To Do It Myself : Montessori Activities for You and Your Child"](https://www.amazon.com/Teach-Me-Myself-Montessori-Activities/dp/0764127896) by `Maja Pitamic`.
 
 ## Youtube video :
@@ -9,6 +9,7 @@ This project is about a serious game that aims to help children from three to si
 ## What is coloring game?
 The main objective of this game is to allow children to learn colors based on the Montessori pedagogy, so at the end of this game the child should be able to identify the colors.
 In this game we have made two sections, the first is interested in the coloring of the alphabets and like that we will allow the child the possibility of identifying the alphabets, the second section is interested in the coloring of the characters .
+
 
 ## What is Montessori ?
 The Montessori Method was developed by **[Dr.Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)** in the early 1900s. It’s a specific child-centered method of education that involves child-led activities , classrooms with children of varying ages and teachers who encourage independence among their pupils.
