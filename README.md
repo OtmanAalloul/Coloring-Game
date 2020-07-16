@@ -46,7 +46,7 @@ The game was developed as 3D game using [Unity](https://en.wikipedia.org/wiki/Un
 
 [2] . A navigational button takes the player to menu.
 
-[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuAlCaracters.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG)
+[![Menu](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG?raw=true)](https://github.com/OtmanAalloul/Coloring-Game/blob/master/ScreenShots/MenuCaracters.PNG)
 
 
 ### `Caracters` levels as shown below :
