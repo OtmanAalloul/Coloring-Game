@@ -1,13 +1,13 @@
-# Arabic Alphabet - An educational game to learn Arabic alphabet
-This project is about a serious game that aims to help children from three to six years old learn and become familiar with the Arabic alphabet.The game was built and developed based on the Montessori pedagogy, espaicially the book ["Teach Me How To Do It Myself : Montessori Activities for You and Your Child"](https://www.amazon.com/Teach-Me-Myself-Montessori-Activities/dp/0764127896) by `Maja Pitamic`.
+# Coloring - An educational game to learn Colors to kids
+This project is about a serious game that aims to help children from three to six years old learn and become familiar with the colors.The game was built and developed based on the Montessori pedagogy, espaicially the book ["Teach Me How To Do It Myself : Montessori Activities for You and Your Child"](https://www.amazon.com/Teach-Me-Myself-Montessori-Activities/dp/0764127896) by `Maja Pitamic`.
 
 ## Youtube video :
 
-[![Menu](https://img.youtube.com/vi/3-_1-D3tuIg/maxresdefault.jpg "Youtube")](https://youtu.be/3-_1-D3tuIg)
+[![Menu](https://img.youtube.com/vi/3-_1-D3tuIg/maxresdefault.jpg "Youtube")](https://www.youtube.com/watch?v=gMbR3Dm2KfU&t=10s)
 
 
-## What is Arabic alphabet?
-The [Arabic alphabet](https://en.wikipedia.org/wiki/Arabic_alphabet) (al-ʾabjadīyaḧ l-ʿarabīyah or Arabic abjad), is the Arabic script as it is codified for writing Arabic. It is written from right to left in a cursive style and includes 28 letters.
+## What is coloring game?
+
 
 
 ## What is Montessori ?
@@ -43,7 +43,7 @@ in indicating to the child to pay attention in the `Learn` levels, and indicates
 
 [3] . A navigational button takes the player to `Settings`. [4] . A navigational button to `Exit`.
 
-![Menu](/screenShots/Menu.png "Menu")
+![Menu](/ScreenShots/Menu.png "Menu")
 
 
 ### `PlayDashboard` as shown below :
