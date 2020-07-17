@@ -15,7 +15,7 @@ In this game we have made two main sections, the first concerns coloring the alp
 The Montessori Method was developed by **[Dr.Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)** in the early 1900s. It’s a specific child-centered method of education that involves child-led activities , classrooms with children of varying ages and teachers who encourage independence among their pupils.
 
 ## Develepment
-The game was developed as 3D game using [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) which is a cross-platform game engine developed by `Unity Technologies`,as well fewer libraries were included, and the main programming language used is `C#`.
+The game was developed as 2D game using [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) which is a cross-platform game engine developed by `Unity Technologies`,as well fewer libraries were included, and the main programming language used is `C#`.
 
 ## Game Features
 - Attractive and esay-to-use GUI.
