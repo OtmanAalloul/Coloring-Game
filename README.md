@@ -7,24 +7,22 @@ This project is about a serious game that aims to help children from three to si
 
 
 ## What is coloring game?
-The main objective of this game is to allow children to learn colors based on the Montessori pedagogy, so at the end of this game the child should be able to identify the colors.
-In this game we have made two sections, the first is interested in the coloring of the alphabets and like that we will allow the child the possibility of identifying the alphabets, the second section is interested in the coloring of the characters .
+The main objective of this game is to make the child able to identify the colors and give him the ability to play with them.
+In this game we have made two main sections, the first concerns coloring the alphabets which considered the following of [Arabic Alphabet game](https://github.com/amine-amaach/ArabicAlphabet), the other section concerns coloring shapes and characters.
 
 
 ## What is Montessori ?
 The Montessori Method was developed by **[Dr.Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)** in the early 1900s. It’s a specific child-centered method of education that involves child-led activities , classrooms with children of varying ages and teachers who encourage independence among their pupils.
 
 ## Develepment
-The game was developed as 3D game using [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) which is a cross-platform game engine developed by `Unity Technologies`,as well fewer libraries were included, and the main programming language used is `C#`.
+The game was developed as 2D game using [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine)) which is a cross-platform game engine developed by `Unity Technologies`,as well fewer libraries were included, and the main programming language used is `C#`.
 
 ## Game Features
 - Attractive and esay-to-use GUI.
-- The game is divided into two sections, one for coloring the alphabets and one for coloring the characters.
-- The alphabets section contains twenty-eight alphabets, therefore twenty-eight levels, and the characters section contains ten characters.
-- For each level the child can modify the size of the pencil in order to color the small areas..
-- A lovely dashboard that contains the different levels, and the child who must choose which level to choose.
+- The alphabets section contains twenty-eight alphabets, therefore twenty-eight levels, and the characters section contains ten characters and shapes.
+- For each level the child can modify the size of the pencil in order to color the small areas.
 - Associate each level with a set of different colors.
-- The sounds, important factor in the game, so we made a playlists of things so that the child does not get bored.
+- The sounds, we made a playlists of famous musics about colors such that the child enjoys playing.
 - The game is light-weight and availible on Andriod, IOS, Windows and as a web application.
 
 ## How to use, game structure
